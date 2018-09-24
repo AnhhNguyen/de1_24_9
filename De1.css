@@ -9,13 +9,18 @@
 	background: white;
 	float: left;
 }
+.menu .box1 p{
+	margin: 0;
+	padding: 0;
+	line-height: 80px;
+}
 .box1 .tron{
 	background: #fb8462;
 	width: 12%;
 	height: 30%;
 	border-radius: 50%;
 	float: left;
-	margin: 13% 1% 13% 12%;
+	margin-top: 25px;
 }
 .box1 .vuong{
 	background: #23afc8;
@@ -32,7 +37,7 @@
 	margin: 0;
 }
 .menu .box2{
-	width: 80%;
+	width: 85%;
 	height: 80px;
 	margin: 0 auto;
 	background: #343841;
@@ -64,4 +69,81 @@
 }
 .box2 ul li a:hover{
 	color: #1f736e;
+}
+.content{
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    background-image: url(https://i.ytimg.com/vi/T-O_Y0cV4cg/maxresdefault.jpg);
+    background-size: 100% 100%;
+}
+.content .load{
+	width: 20%;
+	height: 100%;
+	float: left;
+} 
+.content .load .ct{
+	width: 640px;
+}
+.content .load .ct img{
+	width: 60%;
+	transform: rotate(180deg);
+	display: block;
+	margin-top: 130px;
+	opacity: 0.6;
+}
+.content .nd{
+	float: left;
+	width: 60%;
+	height: 100%;
+}
+.content .nd .big{
+	display: block;
+	font-size: 45px;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	padding: 0;
+	margin: 0;
+	padding-top: 100px;
+}
+.content .nd .small{
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 18px;
+	color: white;
+}
+.content .nd .learn_more{
+	display: block;
+	width: 200px;
+	height: 50px;
+	background: orange;
+	text-align: center;
+	line-height: 50px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	border-radius: 5px;
+	padding: 0;
+	margin: 0;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.content .load-r{
+	width: 20%;
+	height: 100%;
+	float: left;
+} 
+.load-r .ct{
+	width: 640px;
+}
+.load-r .ct img{
+	width: 60%;
+	transform: rotate(0deg);
+	display: block;
+	float: right;
+	margin-top: 130px;
+	opacity: 0.6;
 }
