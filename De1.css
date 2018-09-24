@@ -1,0 +1,67 @@
+.menu{
+	width: 85%;
+	height: 80px;
+	margin: 0 auto;
+}
+.menu .box1{
+	width: 15%;
+	height: 100%;
+	background: white;
+	float: left;
+}
+.box1 .tron{
+	background: #fb8462;
+	width: 12%;
+	height: 30%;
+	border-radius: 50%;
+	float: left;
+	margin: 13% 1% 13% 12%;
+}
+.box1 .vuong{
+	background: #23afc8;
+	width: 12%;
+	height: 30%;
+	float: left;
+	margin: 13% 2% 15% 0;
+}
+.box1 p{
+	font-size: 25px;
+	color: black;
+	padding-top: 12%;
+	float: left;
+	margin: 0;
+}
+.menu .box2{
+	width: 80%;
+	height: 80px;
+	margin: 0 auto;
+	background: #343841;
+	float: left;
+}
+.box2 ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+}
+.box2 ul li{
+	float: left;
+	display: block;
+	text-align: center;
+	color: white;
+	border-right: 2px;
+	line-height: 70px;
+	width: 11%;
+	height: 100%;
+}
+.box2 ul li a{
+	color: white;
+	text-decoration: none;
+	width: 100%;
+	height: 100%;
+	font-size: 25px;
+}
+.box2 ul li a:hover{
+	color: #1f736e;
+}
