@@ -1,0 +1,79 @@
+.content3{
+	width: 85%;
+	height: 350px;
+	background: #FFFFFF;
+	margin: 0 auto;
+}
+.content3 .bx1{
+	width:100%;
+	height: 150px;
+	background: #FFFFFF;
+}
+.bx1{
+	text-align: center;
+}
+.bx1 h1{
+	margin: 0;
+	padding-top: 20px;
+	color: #0066FF;
+}
+.bx1 p{
+	margin:0;
+	padding-top: 15px;
+	padding-left: 150px;
+	padding-right: 150px;
+	text-align: center;
+}
+.content3 .bx2{
+	width: 100%;
+	height: 200px;
+	background: #FFFFFF;
+}
+.bx2 .box{
+	width: 18.75%;
+	height:100%;
+	background: #FFFFFF;
+	margin-left: 5%;
+	float: left;
+}
+.bx2 h2{
+	margin: 0;
+	color: #0066FF;
+}
+.bx2 p{
+	margin: 0;
+	padding-top: 10px;
+}
+.bx2 .dd{
+	width:60px;
+	height: 30px;
+	margin-top: 5px;
+	background:#0066FF;
+	float: right;
+	border-radius:10px;
+}
+.dd a{
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+}
+.dd a{
+	color: beige;
+	text-align: center;
+	line-height: 25px;
+	font-weight: bold;
+}
+.dd a:hover{
+	color: red;
+	background: yellow;
+}
+.bx2 p a{
+	text-decoration: none;
+	color: #0066FF;
+	font-weight: bold;
+}
+.bx2 p a:hover{
+	color: orange;
+}
