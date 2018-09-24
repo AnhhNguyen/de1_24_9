@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .menu{
 	width: 85%;
 	height: 80px;
@@ -322,4 +323,97 @@ height: 200px;
 }
 .bx2 p a:hover{
 	color: orange;
+}
+.footer{
+	width: 100%;
+	height: 350px;
+	background-color: #2e3e4e;
+}
+.footer .box{
+	float: left;
+	width: 20%;
+	height: 100%;
+	/*background-color: beige;*/
+	margin-left: 3%;
+	margin-right: 2%;
+}
+.footer .box h2{
+	margin: 0;
+	color: #e07e5f;
+	padding-top: 35px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.footer .box p{
+	margin: 0;
+	color: white;
+	font-size: 14px;
+	line-height: 25px;
+}
+.footer .box a{
+	text-decoration: none;
+}
+.footer .box p.vb{
+	text-align: justify;
+	line-height: 17px;
+}
+.footer .box .input{
+	margin-top: 15px;
+	width: 100%;
+	height: 30px;
+	background-color: #ffffff;
+	border-radius: 5px;
+}
+.footer .box .sign{
+	float: right;
+	width: 35%;
+	height: 25px;
+	background-color: #2190c0;
+	border-radius: 5px;
+	margin-top: 20px;
+	padding-top: 5px;
+	text-align: center;
+}
+.footer .box .sign a{
+	color: white;
+}
+.footer .box .v{
+	float: left;
+	width: 30%;
+	height: 68px;
+	background-color: white;
+	margin-bottom: 8px;
+}
+.footer .box .text{
+	float: left;
+	margin-left: 10px;
+}
+.footer .box hr{
+	clear: both;
+}
+.footer .box .address{
+	width: 100%;
+	height: 40px;
+	margin-bottom: 25px;
+}
+.footer .box .address .icons{
+	float: left;
+	width: 35px;
+	height: 40px;
+}
+.footer .box .address .icons img{
+	width: 100%;
+	height: 100%;
+}
+.footer .box .address .number{
+	float: left;
+	margin-left: 10px;
+}
+.footer .box .address .number p{
+	line-height: 18px;
+}
+.footer a:hover{
+	color: red;
 }
